@@ -1,0 +1,20 @@
+{
+  "name": "elnemer70/php-first-class-fn",
+  "description": "First-class callable syntax patterns for FP in PHP 8.1",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ElNeMeR70\\\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mahmoud ElNemer",
+      "email": "sultanelnemer@gmail.com"
+    }
+  ]
+}
